@@ -1,0 +1,6 @@
+Serial Reference:
+- http://processing.org/reference/libraries/serial/
+
+- Tutorial:
+		- https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/introduction
+

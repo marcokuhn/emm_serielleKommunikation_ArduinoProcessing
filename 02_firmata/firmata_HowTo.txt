@@ -1,0 +1,20 @@
+- dadurch kann man ein Arduino Board kontrollieren ohne extra Arduino Code zu schreiben.
+	  - benutzt standard - Firmware "Firmata" 
+	  - kommuniziert über entsprechende Processing Bibliothek 
+	
+Firmata auf Arduino Übertragen:
+ - öffne Arduino IDE
+ - Beispiele > Firmata > Standard Firmata
+ - upload Sketch auf Arduino
+ - schließe Arduino IDE
+
+Processing Arduino Firmata Library installieren:
+ - Sketch > import Library > Add Library > „Arduino (Firmata)“ auswählen  
+
+
+Firmata Arduino Reference:
+http://arduino.cc/de/Reference/Firmata
+
+Firmata Processing HowTo:
+http://playground.arduino.cc/Interfacing/Processing
+	
